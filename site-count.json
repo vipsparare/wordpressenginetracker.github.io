@@ -1,6 +1,15 @@
 {
-    "siteCount": 16243,
+    "siteCount": 16252,
     "recentlyMoved": [
+        "stables-studio.com",
+        "dnafitnessnation.com",
+        "fitclubwellesley.com",
+        "restauracionnews.com",
+        "livinginyellow.us",
+        "www.b4-business.com",
+        "impilo.se",
+        "crossfitkennesaw.com",
+        "www.sharoncarrtravel.com",
         "www.farrismd.com",
         "westlittlerockcrossfit.com",
         "codeandbeans.se",
@@ -91,16 +100,7 @@
         "www.barefoothostel.com",
         "www.avenuesouthorthodontics.com",
         "daffodilbowl.com",
-        "www.jewishhomelife.org",
-        "millerslandscapingllc.com",
-        "bcfcontracting.com",
-        "swisshotel.ca",
-        "barefoothostel.com",
-        "acamechla.com",
-        "www.cbh.com",
-        "www.greenstarevandsolarsolutions.com",
-        "123medicare.net",
-        "www.forgegc.com"
+        "www.jewishhomelife.org"
     ],
     "dailyMovedStat": {
         "2024-09-21": "94",
@@ -154,8 +154,8 @@
     "topDestinationHosts": {
         "Pressable": 3990,
         "Bluehost": 3417,
-        "SiteGround": 884,
-        "Digital Ocean": 724,
+        "SiteGround": 885,
+        "Digital Ocean": 726,
         "Kinsta": 715,
         "Hostinger": 449,
         "GoDaddy": 216,
