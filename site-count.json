@@ -1,6 +1,11 @@
 {
-    "siteCount": 16230,
+    "siteCount": 16235,
     "recentlyMoved": [
+        "arsenalstrength.com",
+        "drkira.ca",
+        "helenahealthclub.com",
+        "amaraaestheticsbellevue.com",
+        "jerrykurtz.com",
         "stargatewest.com",
         "www.advanceprogram.org",
         "www.bdblawfirm.com",
@@ -95,12 +100,7 @@
         "thegreensbistroandpub.org",
         "discoversmiles.ca",
         "mylegalchampions.com",
-        "circleofdrink.com",
-        "restorergv.com",
-        "biome.io",
-        "designorina.com",
-        "jitautomationinc.com",
-        "www.maxbell.org"
+        "circleofdrink.com"
     ],
     "dailyMovedStat": {
         "2024-09-21": "94",
@@ -152,12 +152,12 @@
         "2024-11-06": "16045"
     },
     "topDestinationHosts": {
-        "Pressable": 3989,
+        "Pressable": 3990,
         "Bluehost": 3417,
         "SiteGround": 882,
         "Digital Ocean": 723,
-        "Kinsta": 714,
-        "Hostinger": 448,
+        "Kinsta": 715,
+        "Hostinger": 449,
         "GoDaddy": 216,
         "Elementor Hosting": 139,
         "Wordify": 129,
