@@ -1,6 +1,14 @@
 {
-    "siteCount": 16235,
+    "siteCount": 16243,
     "recentlyMoved": [
+        "www.farrismd.com",
+        "westlittlerockcrossfit.com",
+        "codeandbeans.se",
+        "radity.com",
+        "sharkbitefitness.com",
+        "barkavepetsupply.com",
+        "support.onecity.co.il",
+        "crossfit26.com",
         "arsenalstrength.com",
         "drkira.ca",
         "helenahealthclub.com",
@@ -92,15 +100,7 @@
         "www.cbh.com",
         "www.greenstarevandsolarsolutions.com",
         "123medicare.net",
-        "www.forgegc.com",
-        "brynga.com",
-        "wellnessandcommunitycenter.org",
-        "royal-ent.co",
-        "bootstrapventurepartners.com",
-        "thegreensbistroandpub.org",
-        "discoversmiles.ca",
-        "mylegalchampions.com",
-        "circleofdrink.com"
+        "www.forgegc.com"
     ],
     "dailyMovedStat": {
         "2024-09-21": "94",
@@ -154,8 +154,8 @@
     "topDestinationHosts": {
         "Pressable": 3990,
         "Bluehost": 3417,
-        "SiteGround": 882,
-        "Digital Ocean": 723,
+        "SiteGround": 884,
+        "Digital Ocean": 724,
         "Kinsta": 715,
         "Hostinger": 449,
         "GoDaddy": 216,
